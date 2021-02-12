@@ -1,0 +1,105 @@
+body{
+    background-color: #212d2e;
+}
+.mainmid{
+    width: 900px;
+    height: auto;
+    margin: auto;
+}
+.headsec{
+    width: 900px;
+    height: 220px;
+    float: left;
+    background-image: url(headgrey2.jpg);
+}
+.menusec{
+    width: 900px;
+    height: 50px;
+    float: left;
+    background-color:chartreuse;
+}
+.sideleft{
+    width: 250px;
+    height: 600px;
+    float: left;
+}
+.sideright{
+    width: 650px;
+    height: 600px;
+    float: left;
+}
+.hrline{
+    width: 900px;
+    height: 10px;
+    float: left;
+}
+.fotsec{
+    width: 900;
+    height: 60px;
+    float: left;
+}
+.sidelup{
+    width: 250px;
+    height: 330px;
+    float: left;
+    color: white;
+}
+.sideldown{
+    width: 250px;
+    height: 270px;
+    float: left;
+    color: white;
+}
+.sideRup{
+    width: 650px;
+    height: 330px;
+    float: left;
+    color: white;
+}
+.sideRdown{
+    width: 650px;
+    height: 270px;
+    float: left;
+}
+.sideRd1{
+    width: 324px;
+    height: 270px;
+    float: left;
+    color: whitesmoke;
+}
+.sideRd2{
+    width: 2px;
+    height: 270px;
+    float: left;
+}
+.menubar{
+    width: 150px;
+    height: 35px;
+    float: left;
+    background-color: #333d3f;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+.sidelup h2{
+    text-align: ;
+}
+li{
+    font-size: 20px;
+    text-decoration: underline;
+}
+.sideldown h1{
+    text-align: center;
+}
+button{
+    padding: 10px;
+}
+.fotsec p{
+    text-align: center;
+    color: white;
+}
+.redcolor{
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}
